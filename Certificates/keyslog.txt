@@ -1,0 +1,10 @@
+'openssl' is not recognized as an internal or external command,
+operable program or batch file.
+'openssl' is not recognized as an internal or external command,
+operable program or batch file.
+genrsa: Can't open "/private/private4096.key" for writing, No such file or directory
+genrsa: Can't open "/private/private4096.key" for writing, No such file or directory
+Generating RSA private key, 2048 bit long modulus (2 primes)
+.......................................+++++
+.............+++++
+e is 65537 (0x010001)

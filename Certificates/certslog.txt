@@ -1,0 +1,10 @@
+Using configuration from openssl.cnf
+Can't load ./.rnd into RNG
+5872:error:2406F079:random number generator:RAND_load_file:Cannot open file:crypto\rand\randfile.c:98:Filename=./.rnd
+Can't open requests/$1.csr for writing, No such file or directory
+5872:error:02001003:system library:fopen:No such process:crypto\bio\bss_file.c:69:fopen('requests/$1.csr','w')
+5872:error:2006D080:BIO routines:BIO_new_file:no such file:crypto\bio\bss_file.c:76:
+Using configuration from openssl.cnf
+Using configuration from openssl.cnf
+Using configuration from openssl.cnf
+Using configuration from openssl.cnf
